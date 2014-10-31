@@ -1,0 +1,43 @@
+98	The Hound of the Baskervilles	1775.0	Klett	Stately Home Mysteries	art
+97	Madame Bovary	1121.0	Grupo Planeta	Middle Earth	science
+96	Lolita	2361.0	Shueisha	Best Books of the 19th Century	science
+95	Love in the Time of Cholera	2501.0	Egmont Group	The Must-Have Series for Children Ages 6 to 12	monography
+92	The Hound of the Baskervilles	2614.0	Grupo Planeta	Books That Surprised Me - Way Better Than I Thought They Would Be	biography
+90	King Lear	3356.0	Oxford University Press	What to Read after Harry Potter	dictionary
+84	The Name of the Rose	1517.0	China Education and Media Group	Modern-day Classics	mystery
+82	The Order of Things	2425.0	Readers' Digest	Best Spy Novels	drama
+79	The Sound and the Fury	2379.0	Readers' Digest	The 50 greatest British writers since 1945	poetry
+78	The Little Prince	1617.0	Informa	The 50 greatest British writers since 1945	satire
+77	The Death of Ivan Ilych	3651.0	Wolters Kluwer	Books That Surprised Me - Way Better Than I Thought They Would Be	finance
+75	Pride and Prejudice	4606.0	Pearson	Strong Heroine Series	business
+73	The Decameron	1626.0	Egmont Group	Books for Middle-Schoolers	art
+72	In Search of Lost Time	4372.0	Harlequin	Best Psilosophical Literature	satire
+63	The Idiot	1620.0	Egmont Group	Mysteries in Good Taste	travel
+62	The Order of Things	4895.0	Random House	Best Books of the 19th Century	travel
+60	The Sound and the Fury	3114.0	Houghton Mifflin Harcourt	Best South Slavic Literature	cookbook
+57	The Catcher in the Rye	4197.0	Cornelsen	Fictionalized Accounts of Real People	travel
+55	The Name of the Rose	3168.0	HarperCollins	Best Paranormal Romance Series	drama
+54	The Sound and the Fury	1129.0	Houghton Mifflin Harcourt	Classic Picture Book Characters	poetry
+53	One Hundred Years of Solitude	2014.0	Egmont Group	Best Sci-Fi/Fantasy Series	poetry
+48	The Bals Soprano	2034.0	Wolters Kluwer	Best Books of the 19th Century	travel
+43	The Magic Mountain	2620.0	Random House	The 50 greatest British writers since 1945	poetry
+42	Anna Karenina	3279.0	Springer Science and Business Media	American Literature at the Movies	music
+40	The Name of the Rose	4341.0	Wolters Kluwer	Fictionalized Accounts of Real People	history
+39	Mrs Dalloway	1284.0	Informa	I Don't Understand All That Fuss	romance
+36	The Castle	1432.0	Lefebre Sarrut	Strong Heroine Series	drama
+33	Brave New World	2965.0	China Education and Media Group	Best Authors Ever	comics
+32	Mrs Dalloway	3363.0	Wiley	Best German Children Literature	mystery
+29	Crime and Punishment	3258.0	Holtzbrinck	Great Victorian Romance to Daydream About	sport
+24	Things Fall Apart	4798.0	Abril Educacao	Best Authors Ever	comics
+23	Middlemarch	1323.0	Pearson	I Don't Understand All That Fuss	business
+20	Love in the Time of Cholera	3486.0	De Agostini Editore	20th Century Hungarian Literature	comics
+19	The Catcher in the Rye	3731.0	De Agostini Editore	Best Authors Ever	guide
+16	The Divine Comedy	4922.0	Holtzbrinck	Middle Earth	travel
+15	Things Fall Apart	4079.0	Abril Educacao	Literary Horror	romance
+8	The Master and Margarita	3268.0	Cornelsen	Most Difficult Novels	art
+7	The Bals Soprano	1270.0	Shogakukan	Middle Earth	science
+6	King Lear	4994.0	GeMS - Gruppo editoriale Mauri Spagnol	The Ultimate Reading List	health
+5	Journey to the End of the Night	1306.0	Grupo Planeta	The Best Epic Fantasy	health
+3	Lolita	2704.0	Grupo Santillana	Colonial and Post-colonial Literature	drama
+2	Great Expectations	4765.0	Shueisha	Literary Horror	romance
+1	The Divine Comedy	2823.0	Hachette Livre	Best Paranormal Romance Series	health
