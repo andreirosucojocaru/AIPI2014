@@ -1,0 +1,43 @@
+module reservation
+{    
+    struct Date
+    {
+        long day;
+        long month;
+        long year;
+    };
+    struct Moment
+    {
+        long hour;
+        long minute;
+    };
+    struct Time    
+    {
+        Date date;
+        Moment moment;
+    };
+    struct Interval
+    {
+        Time start;
+        Time end;
+    };
+    struct ReservationInformation
+    {
+        long customerId;
+        Interval interval;
+        long numberOfSeats;
+    };
+    typedef sequence<Interval> Intervals;
+    typedef sequence<ReservationInformation> Reservations;
+
+    exception UnspecifiedTimeTable{};
+
+    interface ReservationService {
+        Intervals getTimeTable() raises(UnspecifiedTimeTable);
+        long getAvailableSeats(in Interval interval) raises(UnspecifiedTimeTable);
+        boolean makeReservation(in long customerId, in Interval interval, in long numberOfSeats) raises(UnspecifiedTimeTable);
+        boolean cancelReservation(in long customerId, in Interval interval) raises(UnspecifiedTimeTable);
+        Reservations getReservations(in long customerId) raises(UnspecifiedTimeTable);
+    };
+ 
+};
